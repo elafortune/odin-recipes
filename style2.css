@@ -1,0 +1,193 @@
+header {
+background-color: grey;
+
+padding: 200px;
+padding-top:0px;
+padding-bottom:400px;
+margin-bottom:50px;
+
+}
+.okok {
+font-size:
+
+}
+.section-header1 {
+float:left;
+margin-bottom:50px;
+margin-top:0px;
+;
+}
+
+
+.section-header2 {
+float:left;
+margin-left:200px;
+
+}
+.section-header3 {
+
+padding:50px;
+float:left
+;
+margin-top:0px;
+margin-right:50px;
+clear:both
+}
+
+.section-header4 {
+float: left;
+background-color:yellow;
+padding: 50px;
+margin-top:50px;
+
+}
+
+.container1 {
+background-color: white;
+width: 90%;
+padding: 200px;
+padding-top:0px;
+padding-bottom:300px;
+
+}
+
+.section-container1{
+background-color:white;
+color:white;
+width:100px;
+padding:50 px;
+padding-bottom:50px;
+border-width : 5px;
+border-color: blue;
+border-style: solid;
+float: left;
+margin-right:50px;
+
+}
+
+
+.section-container2{
+background-color:white;
+color:white;
+width:100px;
+padding:50 px;
+padding-bottom:50px;
+border-width : 5px;
+border-color: blue;
+border-style: solid;
+float: left;
+margin-right:50px;
+}
+
+
+.section-container3{
+background-color:white;
+color:white;
+width:100px;
+padding:50 px;
+padding-bottom:50px;
+border-width : 5px;
+border-color: blue;
+border-style: solid;
+float: left;
+margin-right:50px;
+}
+
+
+.section-container4{
+background-color:white;
+color:white;
+width:100px;
+padding:50 px;
+padding-bottom:50px;
+border-width : 5px;
+border-color: blue;
+border-style: solid;
+float: left;
+margin-right:50px;
+
+}
+
+.section-container1txt{
+clear:both;
+width: 80px;
+color:black;
+float:left;
+margin-left:30px;
+margin-right:70px;
+
+}
+
+.section-container2txt{
+
+width :80px;
+color:black;
+float:left;
+margin-left:20px;
+margin-right:60px;
+
+}
+
+.section-container3txt{
+
+width: 80px;
+color:black;
+float:left;
+margin-left:20px;
+margin-right:60px;
+
+}
+
+.section-container4txt{
+
+width: 80px;
+color:black;
+float:left;
+margin-left:20px;
+margin-right:20px;
+}
+
+
+.container2 {
+background-color: grey;
+width: 90%;
+padding: 100px;
+color:black;
+}
+.container2txt2 {
+
+margin-left:1000px;
+
+
+}
+
+.container3 {
+background-color:white;
+width: 90%;
+padding: 100px;
+
+
+}
+.container3txt{
+float:left;
+margin-right:150px;
+border-width:5px;
+border-color:blue
+border-style:solid;
+color:blue;
+}
+
+
+
+.container3button {
+float:left;
+}
+
+footer {
+background-color:grey;
+width:100%;
+padding: 40px;
+text-align:center;
+
+
+}
